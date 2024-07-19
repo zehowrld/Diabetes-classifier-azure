@@ -30,6 +30,6 @@
 
 ## Reflection
 
-This project provided me with valuable hands-on experience in utilizing Azure Machine Learning to develop, train, and deploy machine learning models. By completing the Data Scientist Career Path on Microsoft Learn, I gained a comprehensive understanding of Azure's capabilities for data science and machine learning tasks, empowering me to tackle real-world challenges with confidence.
+This project provided me with valuable hands-on experience in utilizing Azure Machine Learning to develop, train, and deploy machine learning models.I gained a comprehensive understanding of Azure's capabilities for data science and machine learning tasks, empowering me to tackle real-world challenges with confidence.
 
 ---
