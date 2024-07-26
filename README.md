@@ -28,10 +28,11 @@
    - Deployed models to managed online endpoints, making them accessible for real-time inference.
    - Deployed models to batch endpoints, enabling efficient and scalable batch processing.
 
+## RAI(responsible AI) Dashboard 
+![Dashboard dia](https://github.com/user-attachments/assets/c3fcf7f9-ab9c-402c-92b9-033d49d77203)
+![dashboard 1 dia](https://github.com/user-attachments/assets/372baa33-21a3-4dd5-b6fa-ab45c4d8604a)
+
 ## Reflection
 
 This project provided me with valuable hands-on experience in utilizing Azure Machine Learning to develop, train, and deploy machine learning models.I gained a comprehensive understanding of Azure's capabilities for data science and machine learning tasks, empowering me to tackle real-world challenges with confidence.
 
-## RAI(responsible AI) Dashboard 
-![Dashboard dia](https://github.com/user-attachments/assets/c3fcf7f9-ab9c-402c-92b9-033d49d77203)
-![dashboard 1 dia](https://github.com/user-attachments/assets/372baa33-21a3-4dd5-b6fa-ab45c4d8604a)
